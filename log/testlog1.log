@@ -1,0 +1,139 @@
+2021-02-16 21:18:02,843 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-16 21:18:06,800 [main] INFO logger_File - Retail page is opened
+2021-02-16 21:18:06,808 [main] INFO logger_File - Page title  is verified
+2021-02-16 21:18:07,750 [main] INFO logger_File - Search functionality Test Case   undefined
+2021-02-16 21:19:12,846 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-16 21:19:16,511 [main] INFO logger_File - Retail page is opened
+2021-02-16 21:19:16,521 [main] INFO logger_File - Page title  is verified
+2021-02-16 21:19:17,327 [main] INFO logger_File - Search functionality Test Case   undefined
+2021-02-16 21:23:57,324 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-16 21:24:01,069 [main] INFO logger_File - Retail page is opened
+2021-02-16 21:24:01,077 [main] INFO logger_File - Page title  is verified
+2021-02-16 21:24:02,019 [main] INFO logger_File - Search functionality Test Case   undefined
+2021-02-17 12:26:39,791 [main] INFO logger_File - Scenario Validate the image of MacBook pro Started 
+2021-02-17 12:26:43,662 [main] INFO logger_File - Validate the image of MacBook pro   undefined
+2021-02-17 12:56:52,692 [main] INFO logger_File - Scenario Validate the image of MacBook pro Started 
+2021-02-17 12:56:55,998 [main] INFO logger_File - User is on the retail webpage
+2021-02-17 13:05:37,080 [main] INFO logger_File - Scenario Validate the image of MacBook pro Started 
+2021-02-17 13:05:39,743 [main] INFO logger_File - User is on the retail webpage
+2021-02-18 19:18:59,135 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-18 19:19:01,877 [main] INFO logger_File - Search functionality Test Case   undefined
+2021-02-18 19:19:01,883 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-18 19:19:03,355 [main] INFO logger_File - Test search functionality with multiple set of data   undefined
+2021-02-18 19:19:03,358 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-18 19:19:04,861 [main] INFO logger_File - Test search functionality with multiple set of data   undefined
+2021-02-18 19:19:04,864 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-18 19:19:06,291 [main] INFO logger_File - Test search functionality with multiple set of data   undefined
+2021-02-18 21:13:35,672 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-18 21:13:38,291 [main] INFO logger_File - Register an Account Test Case   undefined
+2021-02-18 22:03:32,343 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-18 22:03:34,833 [main] INFO logger_File - Register an Account Test Case   undefined
+2021-02-18 22:22:58,658 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-18 22:23:01,208 [main] INFO logger_File - Register an Account Test Case   undefined
+2021-02-18 22:27:51,429 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-19 10:38:30,160 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-19 10:38:40,086 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 10:39:26,746 [main] INFO logger_File - Test search functionality with multiple set of data   failed
+2021-02-19 10:39:26,749 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 10:39:32,254 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 10:40:18,845 [main] INFO logger_File - Test search functionality with multiple set of data   failed
+2021-02-19 10:40:18,850 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-19 10:42:14,961 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-19 10:42:19,090 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 10:42:25,348 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 10:42:33,948 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 10:42:36,652 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-19 10:44:07,445 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-19 10:44:13,493 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 10:44:17,200 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 10:44:19,309 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 10:44:21,643 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-19 11:26:57,047 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-19 11:27:01,890 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 11:27:03,849 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 11:27:05,441 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-19 11:27:07,327 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-22 11:26:02,466 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-22 11:26:50,376 [main] INFO logger_File - Search functionality Test Case   failed
+2021-02-22 11:26:50,382 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 11:27:36,939 [main] INFO logger_File - Test search functionality with multiple set of data   failed
+2021-02-22 11:27:36,944 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 11:28:23,606 [main] INFO logger_File - Test search functionality with multiple set of data   failed
+2021-02-22 11:28:23,610 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 11:29:10,394 [main] INFO logger_File - Test search functionality with multiple set of data   failed
+2021-02-22 11:29:10,398 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-22 11:29:56,901 [main] INFO logger_File - Register an Account Test Case   failed
+2021-02-22 11:35:28,228 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-22 11:36:15,718 [main] INFO logger_File - Search functionality Test Case   failed
+2021-02-22 11:40:04,726 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-22 11:40:13,628 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 11:40:37,014 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-22 11:40:51,822 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 11:41:38,509 [main] INFO logger_File - Test search functionality with multiple set of data   failed
+2021-02-22 11:41:38,511 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 11:41:43,104 [main] INFO logger_File - Scenario Register an Account Test Case Started 
+2021-02-22 11:42:29,795 [main] INFO logger_File - Register an Account Test Case   failed
+2021-02-22 11:43:57,708 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-22 11:43:59,931 [main] INFO logger_File - Search functionality Test Case   undefined
+2021-02-22 11:48:02,656 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-22 11:48:04,962 [main] INFO logger_File - Search functionality Test Case   undefined
+2021-02-22 11:49:19,198 [main] INFO logger_File - Scenario Search functionality Test Case Started 
+2021-02-22 11:54:21,518 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 11:54:44,071 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 11:55:30,894 [main] INFO logger_File - Test search functionality with multiple set of data   failed
+2021-02-22 11:55:30,899 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 12:22:01,219 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 12:22:15,196 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 12:23:01,937 [main] INFO logger_File - Test search functionality with multiple set of data   failed
+2021-02-22 12:23:01,940 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 12:23:36,757 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 12:23:38,952 [main] INFO logger_File - Test search functionality with multiple set of data   undefined
+2021-02-22 12:23:38,958 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 12:23:40,639 [main] INFO logger_File - Test search functionality with multiple set of data   undefined
+2021-02-22 12:23:40,647 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 12:23:42,308 [main] INFO logger_File - Test search functionality with multiple set of data   undefined
+2021-02-22 18:16:10,398 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 18:16:14,360 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 18:16:17,943 [main] INFO logger_File - Scenario Test search functionality with multiple set of data Started 
+2021-02-22 20:23:29,119 [main] INFO logger_File - Scenario Exectue all information from Actor Table Started 
+2021-02-22 20:23:31,699 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-22 20:23:31,730 [main] INFO logger_File - select * from Public.actor: has been executed
+2021-02-22 20:23:31,757 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-22 20:23:31,757 [main] INFO logger_File - DataBase connection has been closed
+2021-02-22 20:23:31,930 [main] INFO logger_File - Exectue all information from Actor Table   passed
+2021-02-22 20:27:59,422 [main] INFO logger_File - Scenario Exectue all information from Actor Table Started 
+2021-02-22 20:28:01,475 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-22 20:28:01,494 [main] INFO logger_File - select * from Public.actor: has been executed
+2021-02-22 20:28:01,521 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-22 20:28:01,521 [main] INFO logger_File - DataBase connection has been closed
+2021-02-22 20:28:01,683 [main] INFO logger_File - Exectue all information from Actor Table   passed
+2021-02-22 20:30:30,130 [main] INFO logger_File - Scenario Exectue all information from Actor Table Started 
+2021-02-22 20:30:32,089 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-22 20:30:32,108 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-22 20:30:32,135 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-22 20:30:32,136 [main] INFO logger_File - DataBase connection has been closed
+2021-02-22 20:30:32,301 [main] INFO logger_File - Exectue all information from Actor Table   passed
+2021-02-22 21:02:20,516 [main] INFO logger_File - Scenario Exectue all information from Actor Table Started 
+2021-02-22 21:02:22,844 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-22 21:02:22,866 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-22 21:02:22,893 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-22 21:02:22,893 [main] INFO logger_File - DataBase connection has been closed
+2021-02-22 21:02:23,056 [main] INFO logger_File - Exectue all information from Actor Table   passed
+2021-02-22 21:04:11,064 [main] INFO logger_File - Scenario Exectue all information from Actor Table Started 
+2021-02-22 21:04:13,051 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-22 21:04:13,069 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-22 21:04:13,094 [main] INFO logger_File - ResultSet is stored in a csv file in outcome folder
+2021-02-22 21:04:13,095 [main] INFO logger_File - DataBase connection has been closed
+2021-02-22 21:04:13,254 [main] INFO logger_File - Exectue all information from Actor Table   passed
+2021-02-22 21:07:17,074 [main] INFO logger_File - Scenario Exectue all information from Actor Table Started 
+2021-02-22 21:07:19,286 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-22 21:07:19,298 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-22 21:07:19,462 [main] INFO logger_File - Exectue all information from Actor Table   failed
+2021-02-22 21:09:01,918 [main] INFO logger_File - Scenario Exectue all information from Actor Table Started 
+2021-02-22 21:09:03,891 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-22 21:09:03,909 [main] INFO logger_File - select * from Public.actor: has been executed
+2021-02-22 21:09:04,073 [main] INFO logger_File - Exectue all information from Actor Table   failed
+2021-02-22 21:10:20,756 [main] INFO logger_File - Scenario Exectue all information from Actor Table Started 
+2021-02-22 21:10:22,715 [main] INFO logger_File - Connection is established between JDBC and DB
+2021-02-22 21:10:22,726 [main] INFO logger_File - select * from public.actor: has been executed
+2021-02-22 21:10:22,887 [main] INFO logger_File - Exectue all information from Actor Table   failed
