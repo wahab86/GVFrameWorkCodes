@@ -8,6 +8,10 @@ import org.openqa.selenium.support.PageFactory;
 import core.Base;
 
 public class LoginPageObj extends Base {
+	
+	
+	// This is comment for get push 
+	// This is test
 
 	// create a constructor for this page and this applies to all page objects
 
